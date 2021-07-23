@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Madhan.C",
+      "quantity": 1,
+      "image": "Image.jpg",
+      "price": 120,
+      "id": 2
+    },
+    {
+      "name": "Madhan.C",
+      "quantity": 1,
+      "image": "Image.jpg",
+      "price": 120,
+      "id": 3
+    },
+    {
+      "name": "Lorem ipsium",
+      "quantity": 1,
+      "image": "Image.jpg",
+      "price": 130,
+      "id": 4
+    },
+    {
+      "name": "Madhan C",
+      "quantity": "2",
+      "image": "C:\\fakepath\\IMG_5958.JPG",
+      "price": 100,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    align-content: center;
+}
+
+label,input,button{
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+input,td,select{
+    border: 1px solid black;
+}
+h2{
+    margin-left: 8%;
+    margin-top: 2%;
+}
+th{
+    background-color: black;
+    color: #ffffff;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+}
