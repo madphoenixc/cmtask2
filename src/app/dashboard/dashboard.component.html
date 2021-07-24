@@ -39,6 +39,12 @@
         </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>Lorem Ipsum</td>
+        <td>1 No's</td>
+        <td>Image.jpg</td>
+        <td>₹.130.00</td>
+      </tr>
         <tr *ngFor="let row of productdata;let i=index">
             <td *ngIf="i != 0">{{row.name}}</td>
             <td *ngIf="i != 0">{{row.quantity}} No's</td>
