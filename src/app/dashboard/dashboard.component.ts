@@ -39,7 +39,7 @@ export class DashboardComponent implements OnInit {
       this.getalldetails();
     },
     err=>{
-      alert("Details Not Added ")
+      alert("Start you JSON Server(json-server --watch db.json)")
     })
   }
   getalldetails(){
